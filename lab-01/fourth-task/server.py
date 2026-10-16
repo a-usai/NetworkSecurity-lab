@@ -5,7 +5,6 @@ import asyncio
 from hypercorn.config import Config
 from hypercorn.asyncio import serve
 
-
 async def app(scope, receive, send):
     if scope['type'] != 'http':
         return
