@@ -1,3 +1,5 @@
+#TCP: line-based server
+
 import asyncio
 
 # Shared key-value store visible across all connections
