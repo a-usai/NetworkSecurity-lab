@@ -83,4 +83,3 @@ http
 
 we can concentrate on the POST requests, and we can find the flag in the body of the request
 
-```
