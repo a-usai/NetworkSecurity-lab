@@ -68,7 +68,7 @@ for the last two MAC addresses, the handshake is valid, while for the first one,
 
 ## 6. Decrypting the traffic in Wireshark
 
-Wireshark -> Preferences -> Protocols -> IEEE 802.11 -> Decryption keys -> new key:
+Wireshark → Preferences → Protocols → IEEE 802.11 → Decryption keys → new key:
 
 - **Type:** `wpa-pwd`
 - **Key:** `Acme026512:Acme-WiFi`
